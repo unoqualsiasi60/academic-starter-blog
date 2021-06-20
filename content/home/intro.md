@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear in.
 
 title = "Simple FP Blog"
-subtitle = "Excluding comments"
+subtitle = "Without comments"
 
 [design.background]
   # Background color.
